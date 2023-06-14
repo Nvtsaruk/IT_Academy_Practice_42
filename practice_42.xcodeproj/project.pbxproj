@@ -15,6 +15,7 @@
 		CC035C6E2A39E01300EDE2FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC035C6C2A39E01300EDE2FA /* LaunchScreen.storyboard */; };
 		CC035C762A39E10000EDE2FA /* CustomizeScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC035C752A39E10000EDE2FA /* CustomizeScreen.storyboard */; };
 		CC035C782A39E15500EDE2FA /* CustomizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC035C772A39E15500EDE2FA /* CustomizeViewController.swift */; };
+		CC035C7A2A39E5EB00EDE2FA /* SettingsDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC035C792A39E5EB00EDE2FA /* SettingsDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CC035C6F2A39E01300EDE2FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CC035C752A39E10000EDE2FA /* CustomizeScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = CustomizeScreen.storyboard; sourceTree = "<group>"; };
 		CC035C772A39E15500EDE2FA /* CustomizeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizeViewController.swift; sourceTree = "<group>"; };
+		CC035C792A39E5EB00EDE2FA /* SettingsDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				CC035C6A2A39E01300EDE2FA /* Assets.xcassets */,
 				CC035C6C2A39E01300EDE2FA /* LaunchScreen.storyboard */,
 				CC035C6F2A39E01300EDE2FA /* Info.plist */,
+				CC035C792A39E5EB00EDE2FA /* SettingsDelegate.swift */,
 			);
 			path = practice_42;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				CC035C662A39E01200EDE2FA /* ViewController.swift in Sources */,
 				CC035C622A39E01200EDE2FA /* AppDelegate.swift in Sources */,
 				CC035C782A39E15500EDE2FA /* CustomizeViewController.swift in Sources */,
+				CC035C7A2A39E5EB00EDE2FA /* SettingsDelegate.swift in Sources */,
 				CC035C642A39E01200EDE2FA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
